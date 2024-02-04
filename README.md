@@ -1,5 +1,5 @@
 # CivicHeart
-![CivicHeartiOSScreens](CivicHeartBanner.jpg)
+![CivicHeartiOSScreens](https://github.com/shahjacobb/DevFest24-at-Columbia/blob/main/CivicHeartBanner.png?raw=true)
 ## Front End
 
 ## Back End
