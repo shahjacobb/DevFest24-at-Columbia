@@ -1,5 +1,5 @@
 # CivicHeart
-[!](./CivicHeartBanner.jpg)
+![](./CivicHeartBanner.jpg)
 ## Front End
 
 ## Back End
